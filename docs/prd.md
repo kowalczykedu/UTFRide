@@ -1,6 +1,6 @@
 # 📄 Product Requirements Document (PRD)
 
-**Projeto:** [nome]
+**Projeto:** [UTFPR-CARONAS]
 **Versão:** 0.0.0 · esqueleto — preencha via `/utf-prd`
 **Última atualização:** [data]
 
