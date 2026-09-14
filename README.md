@@ -119,6 +119,7 @@ e PRs não saem. **MCPs recomendados** (ID32 — configure na sua IDE): **Figma*
 # [Nome da aplicação]
 
 [Breve descrição: o tema do semestre e o escopo/identidade da SUA equipe.]
+Equipe: Eduardo kowalczyk, Geovane Galan, Luis Felipe Ramos
 
 ## Autores
 
