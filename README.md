@@ -1,7 +1,6 @@
 # [UTFRide]
 
 Breve descrição: UTFRide é um aplicativo de caronas universitárias, que conecta estudantes que desejam ir para a universidade no mesmo trajeto, visando reduzir o custo com transporte e melhorar a qualidade de vida.
-Equipe: Eduardo kowalczyk, Geovane Galan, Luis Felipe Ramos
 
 ## Autores
 
