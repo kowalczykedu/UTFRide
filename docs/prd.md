@@ -51,7 +51,7 @@
 
 ## 📝 4. Escopo Funcional (User Stories)
 
-### US01 — Cadastro e Autenticação Institucional · `Must Have` · `M` · Status: `Draft`
+### US01 — Cadastro e Autenticação Institucional · `Must Have` · `M` · Status: `Ready`
 
 **Como** aluno visitante da UTFPR, **eu quero** realizar meu cadastro e autenticar meu acesso usando uma matrícula ativa e um e-mail institucional, **para que** eu possa acessar as funcionalidades do sistema em um ambiente seguro e restrito à comunidade acadêmica.
 
@@ -66,7 +66,7 @@
 
 ---
 
-### US02 — Publicação e Gestão de Oferta de Carona · `Must Have` · `M` · Status: `Draft`
+### US02 — Publicação e Gestão de Oferta de Carona · `Must Have` · `M` · Status: `Ready`
 
 **Como** motorista, **eu quero** publicar uma oferta de carona informando origem, destino, data, horário, número de vagas e o valor a ser cobrado, **para que** outros alunos possam encontrar e solicitar uma carona.
 
@@ -81,7 +81,7 @@
 
 ---
 
-### US03 — Pesquisa e Solicitação de Vaga em Carona · `Must Have` · `M` · Status: `Draft`
+### US03 — Pesquisa e Solicitação de Vaga em Carona · `Must Have` · `M` · Status: `Ready`
 
 **Como** passageiro, **eu quero** pesquisar caronas disponíveis e solicitar uma vaga, **para que** eu possa encontrar uma carona compatível com meu trajeto e horário.
 
@@ -97,7 +97,7 @@
 
 ---
 
-### US04 — Publicação de Busca Ativa de Carona · `Should Have` · `M` · Status: `Draft`
+### US04 — Publicação de Busca Ativa de Carona · `Should Have` · `M` · Status: `Ready
 
 **Como** passageiro, **eu quero** publicar uma busca de carona informando origem, destino, data e horário, **para que** motoristas interessados possam encontrar minha solicitação e oferecer uma carona.
 
@@ -111,7 +111,7 @@
 
 ---
 
-### US05 — Avaliação Mútua Pós-Viagem e Histórico · `Should Have` · `M` · Status: `Draft`
+### US05 — Avaliação Mútua Pós-Viagem e Histórico · `Should Have` · `M` · Status: `Ready`
 
 **Como** aluno participante de uma carona (motorista ou passageiro), **eu quero** avaliar os demais participantes após a conclusão da viagem e consultar meu histórico, **para que** eu possa registrar minha experiência, manter a confiança da comunidade e acompanhar minhas viagens passadas.
 
@@ -125,7 +125,7 @@
 
 ---
 
-### US06 — Moderação de Denúncias e Suporte · `Must Have` · `M` · Status: `Draft`
+### US06 — Moderação de Denúncias e Suporte · `Must Have` · `M` · Status: `Ready`
 
 **Como** suporte, **eu quero** receber e analisar denúncias sobre usuários e caronas, **para que** eu possa tomar medidas de moderação e manter a segurança da plataforma.
 
